@@ -1,2 +1,2 @@
-# Today-s-repo
-Repo used for learning
+# Dario's Repo
+My repository used for submitting homeworks.
